@@ -8,12 +8,14 @@ body {
 
 main {
     background-color: #0f0e0e;
-    max-width: 700px;
+    max-width: 720px;
     margin: 20px auto;
     padding: 25px;
     border-radius: 8px;
     border: 1px solid #333;
     box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+    text-align: center;
+    align-items: center;
 }
 
 h1 {
@@ -41,4 +43,8 @@ p {
     border-radius: 5px;
     text-align: center;
     font-weight: bold;
+}
+.meat {
+    align-items: center;
+    text-align: center;
 }
