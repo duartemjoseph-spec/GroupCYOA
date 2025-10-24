@@ -8,4 +8,4 @@
 
  // You can add multiple dates with description.
 
-// Person who Peer Reviewed your assignment: 
+// Person who Peer Reviewed your assignment: Nicolas -Images and index should not be in the pages folder, other than that the code and project looked fine.
